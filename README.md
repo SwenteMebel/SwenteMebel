@@ -5,8 +5,9 @@
 - 📫 How to reach me; Linkedin is the key 
 
  * Projects
+    - Study assignment , Eindopdracht-A , done. 
     - Potfolio , done.
-    - Short advertisement, done.
+    - Short advertisement , done.
     - Webshop, in progress.. come back later! :D
 
 <!---
